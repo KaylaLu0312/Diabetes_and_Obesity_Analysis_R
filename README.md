@@ -16,7 +16,7 @@ A data analysis project examining the prevalence of diabetes and obesity, and th
 
 ## Report
 See the full analysis here:
-[Diabetes and Obesity Report](https://kaylalu0312.github.io/Mental-Health-Risk-Analysis_R/Diabetes_and_Obesity_Analysis_R.html)
+[Diabetes and Obesity Report](https://kaylalu0312.github.io/Mental-Health-Risk-Analysis_R/Diabetes-and-Obesity.html)
 
 ## Data Source
 - Dataset_1:  Diabetes Prevalence Dataset
